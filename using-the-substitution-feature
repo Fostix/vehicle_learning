@@ -1,0 +1,4 @@
+def dx_f(x):
+   return 2*x
+
+print(dx_f.subs(x,2))
